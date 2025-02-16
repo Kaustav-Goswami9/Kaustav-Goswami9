@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm passionate about **Data Science** and **Softwa
 ## 🛠 Technologies & Tools
 
 - **Programming Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: Flask, VueJS
+- **Frameworks**: Flask, VueJS, Jinja
 - **Libraries**: scikit-learn, numpy, pandas
-- **Databases**: MySQL
-- **Tools**: Git, Jira, pytest, Jinja
+- **Databases**: MySQL, PostgreSQL
+- **Tools**: Git, Jira, pytest
 
 ## 📚 Projects
 
